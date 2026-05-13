@@ -51,7 +51,7 @@ Visit **http://localhost:3000**
 | AI | Google Gemini |
 
 ##Screenshots
-accountcreation.png
-case timeline dashboard.png
-document upload interface.pn
+accountcreation.png,
+case timeline dashboard.png,
+document upload interface.png,
 home page.png
