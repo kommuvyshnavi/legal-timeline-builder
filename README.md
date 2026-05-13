@@ -49,3 +49,9 @@ Visit **http://localhost:3000**
 | Backend | Express.js |
 | Database | MongoDB + Mongoose |
 | AI | Google Gemini |
+
+##Screenshots
+accountcreation.png
+case timeline dashboard.png
+document upload interface.pn
+home page.png
